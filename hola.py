@@ -1,4 +1,4 @@
-print("hola mundo desde la rama")
+print("hola mundo desde la main")
 
 numero1 = input("Ingresa el primer numero: ")
 
